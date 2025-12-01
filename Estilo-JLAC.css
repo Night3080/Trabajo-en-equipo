@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#titulo{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+#subtitulo{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkmagenta;
+}
+#texto{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
